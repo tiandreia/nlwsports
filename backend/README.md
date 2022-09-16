@@ -6,6 +6,17 @@
 
 #### Ad
 
+id
+gameId
+yearsPlaying
+discord
+weeksDays
+hoursStart
+hoursEnd
+useVoiceChannel
+createdAt
+
+
 ##### Casos de uso
 
 - Listagem de games com contagem de anúncios
