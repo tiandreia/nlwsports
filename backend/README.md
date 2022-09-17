@@ -10,7 +10,7 @@ id
 gameId
 yearsPlaying
 discord
-weeksDays
+weekDays
 hoursStart
 hoursEnd
 useVoiceChannel
